@@ -325,6 +325,7 @@ html {
 *::after {
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
+          padding-bottom: 20px;
 }
 
 @-ms-viewport {
